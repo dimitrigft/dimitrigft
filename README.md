@@ -35,7 +35,7 @@ Bienvenue sur mon profil GitHub !
 ## 📫 Me contacter
 
 - [LinkedIn](https://linkedin.com/in/dimitrigft)
-- ✉️ dimitriguift@gmail.com
+- ✉️ effoliguift@outlook.com
 - 📂 [CV PDF (sur demande)]()
 
 Merci de votre visite 🙌
