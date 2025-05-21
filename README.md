@@ -9,9 +9,8 @@
 
 ## 🧠 À propos
 
-Actuellement en Master 2 MOSEF (Modélisations Statistiques Économiques et Financières) à l’Université Paris 1 Panthéon-Sorbonne, j'alterne entre formation avancée en data science et mission en entreprise comme Data Scientist Audit chez Crédit Agricole Assurances.
+Actuellement en Master 2 MOSEF (Modélisations Statistiques Économiques et Financières) à l’Université Paris 1 Panthéon-Sorbonne, j'alterne entre formation avancée en data science et mission en entreprise comme Data Scientist Audit chez Crédit Agricole Assurances où au sein de l'équipe data nous accompagnons les auditeurs avec des tests data utiles aux missions.
 
-Je conçois des modèles prédictifs et des pipelines data à impact, alliant rigueur statistique et mise en production industrielle.
 
 ---
 
@@ -43,24 +42,21 @@ Je conçois des modèles prédictifs et des pipelines data à impact, alliant ri
 ## 🎓 Formation
 
 **Université Paris 1 Panthéon-Sorbonne**  
+
 _M2 MoSEF – Data Science (2024–2025)_  
-- Modélisation du risque de crédit, NLP, séries temporelles, Deep Learning  
+- Modélisation du risque de crédit, finance quantitative, NLP, séries temporelles, Deep Learning  
 - Data Engineering (Azure, Spark, Hadoop), Web Scraping, MLOps  
-- Challenges IA (Deloitte, Nexialog, Crédit Logement)
+- Challenges IA (HP, Nexialog, Sorbonne Data Challenge)
 
 **Crédit Agricole Assurances**  
+
 _Data Scientist Audit (alternance)_  
-- Analyse de la donnée comptable et contrôle interne  
-- Scoring, automatisation, reporting avancé
+- Interprétabilité des clauses contractuelles d'assurances (analyse textuelle, vectorisation de données textuelles, classification de garanties de contrats) 
+- Mission de lutte contre la fraude : analyse de notes frais (tesseract)
+- Etude de la sinistralité climatique (sinistre tempête) 
 
 ---
 
-## 📬 Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/dimitrigft)
-- ✉️ dimitriguift@gmail.com
-- [CV disponible sur demande]
-
----
 
 💡 *Ce GitHub est régulièrement mis à jour avec mes projets, challenges et publications techniques.*
